@@ -1,2 +1,2 @@
 # prueba
-Repositorio de rueba
+Repositorio de prueba
